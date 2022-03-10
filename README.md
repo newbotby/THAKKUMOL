@@ -2,7 +2,7 @@
   <p align="center">
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=7500D1&lines=WELCOME+TO+THAKKU+MOL+WA+BOT+REPO;CREATED+BY+KICHU+SER;THIS+IS+A+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATURES)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=ff8c00&lines=WELCOME+TO+THAKKU+MOL+WA+BOT+REPO;CREATED+BY+KICHU+SER;THIS+IS+A+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATURES)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/Itsme-soman">KICHU-SER</a> to mak
 
 ## Click the instagram logo to follow this page👀✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=30&center=true&vCenter=true&lines=FOLLOW+ME+ON+INSTA...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ff8c00&size=30&center=true&vCenter=true&lines=FOLLOW+ME+ON+INSTA...)](https://git.io/typing-svg)
 </p>
     
 <p align="center">
@@ -91,13 +91,13 @@ $ node julie.js
   <a href="https://github.com/Itsme-soman/THAKKUMOL">
     
 <a href="https://github.com/Itsme-soman/followers">
-<img src="https://img.shields.io/github/repo-size/Itsme-soman/KICHU-SER?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/Itsme-soman/THAKKUMOL?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Itsme-soman/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Itsme-soman/KICHU-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itsme-soman/KICHU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/Itsme-soman/KICHU-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Itsme-soman/KICHU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/Itsme-soman/KICHU-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itsme-soman/KICHU-SER?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Itsme-soman/THAKKUMOL/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itsme-soman/KICHU-SER?color=blue&style=flat-square"></a>
+<a href="https://github.com/Itsme-soman/THAKKUMOL/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Itsme-soman/KICHU-SER?color=blue&style=flat-square"></a>
+<a href="https://github.com/Itsme-soman/THAKKUMOL/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itsme-soman/KICHU-SER?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -111,7 +111,7 @@ Click WA logo to Join Support Group👇🏼
 
 <a href="https://chat.whatsapp.com/FkUTQZLhA0r2VuCz8XZjcC" target="blank"><img align="center" src="https://i.imgur.com/21zMdKL.png" alt="kyrie.baran" height="130" width="130" /></a>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Itsme-soman&repo=KICHU-SER&theme=nightowl)](https://github.com/Itsme-soman/KICHU-SER)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Itsme-soman&repo=THAKKUMOL&theme=nightowl)](https://github.com/Itsme-soman/THAKKUMOL)
   </div>
     
 ### ⚠ Warning ⚠
